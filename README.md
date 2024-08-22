@@ -1,5 +1,5 @@
 ## Install Nexus Repository Manager
-- https://github.com/awanmbandi/maven-nexus-project-eagles-batch/blob/maven-nexus-install/nexus-install.sh
+- https://github.com/asaphdanchi/realworld-cicd-pipeline-project/blob/cd3c9ffe12a50ad164f4af7e089abd99cbff5dbd/nexus-install.sh
 
 ## Install Apache Maven
 - https://github.com/awanmbandi/maven-nexus-project-eagles-batch/blob/maven-nexus-install/maven-install.md
