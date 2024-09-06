@@ -30,7 +30,7 @@ under the License.
     <server>
       <id>nexusdeploymentrepo</id>
       <username>admin</username>  <!-- Provide Your Nexus Repository Server Username and Password -->
-      <password>tuVhiw-fehji4-pumpeb</password>
+      <password>admin</password>
     </server>
 
   </servers>
